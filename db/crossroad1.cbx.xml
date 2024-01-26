@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="crossroad1">
+		<CBX_INST_ENTRY INSTANCE_NAME="|crossroad1|crossroad1_core:inst|crossroad1_core_jtag_uart_0:jtag_uart_0|crossroad1_core_jtag_uart_0_scfifo_r:the_crossroad1_core_jtag_uart_0_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|crossroad1|crossroad1_core:inst|crossroad1_core_onchip_memory2_0:onchip_memory2_0|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_2sd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|crossroad1|crossroad1_core:inst|crossroad1_core_cpu_0:cpu_0|crossroad1_core_cpu_0_nios2_oci:the_crossroad1_core_cpu_0_nios2_oci|crossroad1_core_cpu_0_nios2_ocimem:the_crossroad1_core_cpu_0_nios2_ocimem|crossroad1_core_cpu_0_ociram_sp_ram_module:crossroad1_core_cpu_0_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_tf81.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|crossroad1|crossroad1_core:inst|crossroad1_core_cpu_0:cpu_0|crossroad1_core_cpu_0_register_bank_a_module:crossroad1_core_cpu_0_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_p2h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|crossroad1|crossroad1_core:inst|crossroad1_core_cpu_0:cpu_0|crossroad1_core_cpu_0_register_bank_b_module:crossroad1_core_cpu_0_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_q2h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|crossroad1|crossroad1_core:inst|crossroad1_core_jtag_uart_0:jtag_uart_0|crossroad1_core_jtag_uart_0_scfifo_w:the_crossroad1_core_jtag_uart_0_scfifo_w|scfifo:wfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

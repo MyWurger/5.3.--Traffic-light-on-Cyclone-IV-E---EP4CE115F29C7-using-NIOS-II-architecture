@@ -1,0 +1,1122 @@
+Archive member included because of file (symbol)
+
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+                              ../crossroad1_soft_bsp//obj/HAL/src/crt0.o (alt_load)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+                              ../crossroad1_soft_bsp//obj/HAL/src/crt0.o (alt_main)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+                              obj/default/main.o (usleep)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_init)
+../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_ioctl)
+../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o) (alt_alarm_start)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o) (alt_busy_sleep)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o) (close)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o) (_do_ctors)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o) (_do_dtors)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o) (alt_errno)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o) (alt_ic_isr_register)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o) (alt_io_redirect)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_handler)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o) (alt_irq_active)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o) (open)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o) (_alt_tick_rate)
+../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_qsys_irq_init)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o) (alt_find_dev)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o) (alt_find_file)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o) (alt_get_fd)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o) (atexit)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o) (errno)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o) (memcpy)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o) (strlen)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o) (__udivsi3)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o) (__mulsi3)
+../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+alt_irq             0x100             ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+errno               0x4               c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+_atexit0            0x190             c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x00008000         0x00000020
+onchip_memory2_0 0x00008020         0x000059e0
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/main.o
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+LOAD ../crossroad1_soft_bsp/\libhal_bsp.a
+END GROUP
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+                0x00008000                __alt_mem_onchip_memory2_0 = 0x8000
+
+.entry          0x00008000       0x20
+ *(.entry)
+ .entry         0x00008000       0x20 ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+                0x00008000                __reset
+
+.exceptions     0x00008020      0x194
+                0x00008020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x00008020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x00008020        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                0x00008020                alt_irq_entry
+ .exceptions.entry.label
+                0x00008020        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                0x00008020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x00008020       0x54 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x00008074       0x10 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x00008084        0x4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x00008088        0x4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x0000808c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x0000808c        0x8 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x00008094        0x4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00008098        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00008098        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x00008098       0x54 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x000080ec       0xc8 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x000080ec                alt_irq_handler
+                0x000081b4                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x00008020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x000081b4     0x27c0
+                0x000081b4                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000081b4       0x3c ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+                0x000081b4                _start
+ .text          0x000081f0      0x1ec obj/default/main.o
+                0x000081f0                main
+ .text          0x000083dc       0xec ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+                0x000083dc                alt_load
+ .text          0x000084c8       0x6c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+                0x000084c8                alt_main
+ .text          0x00008534       0x30 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+                0x00008534                usleep
+ .text          0x00008564       0xb0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x00008564                alt_irq_init
+                0x00008598                alt_sys_init
+ .text          0x00008614      0x148 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x00008614                altera_avalon_jtag_uart_read_fd
+                0x0000866c                altera_avalon_jtag_uart_write_fd
+                0x000086c4                altera_avalon_jtag_uart_close_fd
+                0x0000870c                altera_avalon_jtag_uart_ioctl_fd
+ .text          0x0000875c      0x40c ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                0x0000875c                altera_avalon_jtag_uart_init
+                0x00008af4                altera_avalon_jtag_uart_close
+ .text          0x00008b68       0xf4 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                0x00008b68                altera_avalon_jtag_uart_ioctl
+ .text          0x00008c5c      0x224 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x00008c5c                altera_avalon_jtag_uart_read
+ .text          0x00008e80      0x240 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x00008e80                altera_avalon_jtag_uart_write
+ .text          0x000090c0      0x154 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+                0x000090c0                alt_alarm_start
+ .text          0x00009214      0x15c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x00009214                alt_busy_sleep
+ .text          0x00009370      0x160 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+                0x00009370                close
+ .text          0x000094d0       0x1c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x000094d0                alt_dcache_flush_all
+ .text          0x000094ec       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x00009518      0x114 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x00009518                alt_dev_llist_insert
+ .text          0x0000962c       0x64 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                0x0000962c                _do_ctors
+ .text          0x00009690       0x64 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                0x00009690                _do_dtors
+ .text          0x000096f4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x000096f4       0x1c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x000096f4                alt_icache_flush_all
+ .text          0x00009710      0x1d4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+                0x00009710                alt_ic_isr_register
+                0x00009760                alt_ic_irq_enable
+                0x000097fc                alt_ic_irq_disable
+                0x0000989c                alt_ic_irq_enabled
+ .text          0x000098e4       0xf8 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                0x000098e4                alt_iic_isr_register
+ .text          0x000099dc      0x150 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                0x00009ab4                alt_io_redirect
+ .text          0x00009b2c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x00009b2c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x00009b2c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x00009b2c      0x2e4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+                0x00009c24                open
+ .text          0x00009e10       0x78 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x00009e10                alt_release_fd
+ .text          0x00009e88      0x1a4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+                0x00009e88                alt_alarm_stop
+                0x00009f20                alt_tick
+ .text          0x0000a02c       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                0x0000a02c                altera_nios2_qsys_irq_init
+ .text          0x0000a04c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x0000a04c       0x94 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x0000a04c                alt_find_dev
+ .text          0x0000a0e0      0x120 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+                0x0000a0e0                alt_find_file
+ .text          0x0000a200       0xd0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+                0x0000a200                alt_get_fd
+ .text          0x0000a2d0       0x14 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                0x0000a2d0                atexit
+ .text          0x0000a2e4       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                0x0000a2e4                exit
+ .text          0x0000a31c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .text          0x0000a31c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .text          0x0000a31c       0x74 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+                0x0000a31c                memcmp
+ .text          0x0000a390       0xa0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+                0x0000a390                memcpy
+ .text          0x0000a430       0x74 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+                0x0000a430                strlen
+ .text          0x0000a4a4      0x134 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                0x0000a4a4                __register_exitproc
+ .text          0x0000a5d8      0x1b4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                0x0000a5dc                __call_exitprocs
+ .text          0x0000a78c      0x14c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x0000a808                __divsi3
+                0x0000a868                __modsi3
+                0x0000a8c8                __udivsi3
+                0x0000a8d0                __umodsi3
+ .text          0x0000a8d8       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x0000a8d8                __mulsi3
+ .text          0x0000a910       0x60 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0000a950                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x0000a970                PROVIDE (__etext, ABSOLUTE (.))
+                0x0000a970                PROVIDE (_etext, ABSOLUTE (.))
+                0x0000a970                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000a970                . = ALIGN (0x4)
+                0x0000a970                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x0000a970                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x0000a970                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x0000a970                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x0000a970                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x0000a970                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table)
+ *(.dynamic)
+                0x0000a970                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+ .ctors.65535   0x0000a970        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                0x0000a974                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x0000a974                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x0000a974                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x0000a974                . = ALIGN (0x4)
+
+.rodata         0x0000a974       0x38
+                0x0000a974                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x0000a974                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000a974       0x14 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .rodata        0x0000a988       0x14 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata        0x0000a99c        0xc ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .rodata.str1.4
+                0x0000a9a8        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ *(.rodata1)
+                0x0000a9ac                . = ALIGN (0x4)
+                0x0000a9ac                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x0000a974                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x0000a9ac     0x1634 load address 0x0000bfe0
+                0x0000a9ac                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x0000a9ac                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000a9ac        0x0 ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+ .data          0x0000a9ac        0x0 obj/default/main.o
+ .data          0x0000a9ac        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x0000a9ac        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x0000a9ac        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .data          0x0000a9ac     0x1060 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x0000ba0c        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000ba0c      0x1a8 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000ba0c                alt_dev_null
+                0x0000ba34                alt_fd_list
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .data          0x0000bbb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .data          0x0000bbb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .data          0x0000bbb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .data          0x0000bbb4      0x400 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .data          0x0000bfb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .data          0x0000bfb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .data          0x0000bfb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .data          0x0000bfb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .data          0x0000bfb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .data          0x0000bfb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .data          0x0000bfb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x0000bfb4        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x0000bfb4        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+                0x00013fb4                _gp = ABSOLUTE ((. + 0x8000))
+                0x00013fb4                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000bfb4       0x14 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000bfb4                alt_fs_list
+                0x0000bfbc                alt_dev_list
+                0x0000bfc4                alt_max_fd
+ .sdata         0x0000bfc8        0x4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+                0x0000bfc8                alt_errno
+ .sdata         0x0000bfcc        0x4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000bfcc                alt_priority_mask
+ .sdata         0x0000bfd0        0x8 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+                0x0000bfd0                alt_alarm_list
+ .sdata         0x0000bfd8        0x8 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                0x0000bfd8                _impure_ptr
+                0x0000bfdc                _global_impure_ptr
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000bfe0                . = ALIGN (0x4)
+                0x0000bfe0                _edata = ABSOLUTE (.)
+                0x0000bfe0                PROVIDE (edata, ABSOLUTE (.))
+                0x0000bfe0                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x0000bfe0                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x0000d614      0x2ac
+                0x0000d614                __bss_start = ABSOLUTE (.)
+                0x0000d614                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x0000d614                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000d614        0xc ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000d614                alt_argc
+                0x0000d618                alt_argv
+                0x0000d61c                alt_envp
+ .sbss          0x0000d620        0x4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000d620                alt_irq_active
+ .sbss          0x0000d624        0x8 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+                0x0000d624                _alt_tick_rate
+                0x0000d628                _alt_nticks
+ .sbss          0x0000d62c        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                0x0000d62c                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x0000d630                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x0000d630                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+ .bss           0x0000d630        0x0 obj/default/main.o
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x0000d630        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x0000d630        0x0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+ COMMON         0x0000d630      0x100 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x0000d630                alt_irq
+ COMMON         0x0000d730      0x190 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                0x0000d730                _atexit0
+                0x0000d8c0                . = ALIGN (0x4)
+                0x0000d8c0                __bss_end = ABSOLUTE (.)
+
+.onchip_memory2_0
+                0x0000d8c0        0x0
+                0x0000d8c0                PROVIDE (_alt_partition_onchip_memory2_0_start, ABSOLUTE (.))
+ *(.onchip_memory2_0. onchip_memory2_0.*)
+                0x0000d8c0                . = ALIGN (0x4)
+                0x0000d8c0                PROVIDE (_alt_partition_onchip_memory2_0_end, ABSOLUTE (.))
+                0x0000d8c0                _end = ABSOLUTE (.)
+                0x0000d8c0                end = ABSOLUTE (.)
+                0x0000d8c0                __alt_stack_base = ABSOLUTE (.)
+                0x0000d8c0                PROVIDE (_alt_partition_onchip_memory2_0_load_addr, LOADADDR (.onchip_memory2_0))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x26
+ *(.comment)
+ .comment       0x00000000       0x26 obj/default/main.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x00000000       0x27 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x598
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x00000028       0x20 obj/default/main.o
+ .debug_aranges
+                0x00000048       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x00000068       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000088       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_aranges
+                0x000000a8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x000000c8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x000000e8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_aranges
+                0x00000108       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_aranges
+                0x00000128       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x00000148       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x00000168       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_aranges
+                0x00000188       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_aranges
+                0x000001a8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x000001c8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x000001e8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x00000208       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000228       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x00000248       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x00000268       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000288       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x000002a8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x000002c8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x000002e8       0x30 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x00000318       0x28 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x00000340       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x00000360       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000380       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x000003a0       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_aranges
+                0x000003c0       0x38 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x000003f8       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x00000418       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x00000438       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x00000458       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x00000478       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000498       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x000004b8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x000004d8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x000004f8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000518       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000538       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x00000558       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x00000578       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+                0x00000000      0x843
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1b obj/default/main.o
+ .debug_pubnames
+                0x0000001b       0x1f ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_pubnames
+                0x0000003a       0x46 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_pubnames
+                0x00000080       0x1d ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_pubnames
+                0x0000009d       0x34 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_pubnames
+                0x000000d1       0xa5 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_pubnames
+                0x00000176       0x55 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_pubnames
+                0x000001cb       0x34 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_pubnames
+                0x000001ff       0x33 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_pubnames
+                0x00000232       0x34 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_pubnames
+                0x00000266       0x26 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_pubnames
+                0x0000028c       0x25 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_pubnames
+                0x000002b1       0x1c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_pubnames
+                0x000002cd       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_pubnames
+                0x000002f8       0x63 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_pubnames
+                0x0000035b       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_pubnames
+                0x00000386       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_pubnames
+                0x000003a6       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_pubnames
+                0x000003c6       0x20 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_pubnames
+                0x000003e6       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_pubnames
+                0x00000411       0x6e ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_pubnames
+                0x0000047f       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_pubnames
+                0x000004aa       0x26 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_pubnames
+                0x000004d0       0x32 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_pubnames
+                0x00000502       0x3b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_pubnames
+                0x0000053d       0x1b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_pubnames
+                0x00000558       0x25 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_pubnames
+                0x0000057d       0x68 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_pubnames
+                0x000005e5       0x31 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_pubnames
+                0x00000616       0x23 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_pubnames
+                0x00000639       0x24 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_pubnames
+                0x0000065d       0x21 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_pubnames
+                0x0000067e       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_pubnames
+                0x000006a8       0x1b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_pubnames
+                0x000006c3       0x39 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_pubnames
+                0x000006fc       0x1c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_pubnames
+                0x00000718       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_pubnames
+                0x00000735       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_pubnames
+                0x00000752       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_pubnames
+                0x0000076f       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_pubnames
+                0x00000799       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_pubnames
+                0x000007c0       0x48 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_pubnames
+                0x00000808       0x1f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_pubnames
+                0x00000827       0x1c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_info     0x00000000     0xa0b0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x6b ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000006b      0x141 obj/default/main.o
+ .debug_info    0x000001ac      0x27d ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x00000429      0x215 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x0000063e      0x158 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_info    0x00000796      0x6c8 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00000e5e      0x7c9 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x00001627      0x5f1 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_info    0x00001c18      0x433 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_info    0x0000204b      0x536 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x00002581      0x52e ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x00002aaf      0x432 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_info    0x00002ee1      0x19b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_info    0x0000307c      0x457 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x000034d3      0x14c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000361f      0x66f ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x00003c8e      0x2a7 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00003f35       0xff ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x00004034       0xfe ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x00004132      0x154 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x00004286      0x14c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x000043d2      0x483 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x00004855      0x304 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x00004b59      0x685 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x000051de       0x74 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x00005252      0x265 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x000054b7      0x157 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x0000560e      0x515 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_info    0x00005b23      0x3e2 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x00005f05      0x3ee ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_info    0x000062f3      0x153 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x00006446       0x7a ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x000064c0      0x408 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x000068c8      0x40f ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x00006cd7      0x450 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x00007127      0x181 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_info    0x000072a8      0x93f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_info    0x00007be7      0x93d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_info    0x00008524       0x8c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_info    0x000085b0      0x115 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_info    0x000086c5      0x106 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_info    0x000087cb       0xdb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_info    0x000088a6      0x99c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_info    0x00009242      0x9e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00009c24      0x21c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x00009e40       0xf3 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x00009f33      0x17d ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x00000000     0x25ca
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x12 ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x00000012       0x4e obj/default/main.o
+ .debug_abbrev  0x00000060       0x88 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x000000e8       0xb7 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000019f       0x5d ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_abbrev  0x000001fc      0x142 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000033e       0xf7 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00000435      0x17c ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_abbrev  0x000005b1       0xf0 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_abbrev  0x000006a1      0x191 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x00000832      0x18d ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x000009bf      0x172 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_abbrev  0x00000b31       0x6c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_abbrev  0x00000b9d       0xfb ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00000c98       0x3f ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x00000cd7       0xc7 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x00000d9e       0xf6 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x00000e94       0x76 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00000f0a       0x76 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x00000f80       0x5e ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00000fde       0x3f ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x0000101d      0x134 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x00001151      0x14e ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x0000129f       0xf0 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x0000138f       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x000013a1      0x10c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x000014ad       0x44 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x000014f1      0x112 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x00001603       0xc1 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x000016c4      0x150 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x00001814       0x3f ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x00001853       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x00001865       0xcf ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x00001934       0xcf ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x00001a03       0xfb ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x00001afe       0xb7 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x00001bb5      0x16e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x00001d23      0x157 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00001e7a       0x3b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x00001eb5       0x7c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00001f31       0xb5 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00001fe6       0x8b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00002071      0x1ae c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000221f      0x1de c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x000023fd       0xe0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x000024dd       0x7b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x00002558       0x72 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x00000000     0x685d
+ *(.debug_line)
+ .debug_line    0x00000000       0x66 ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000066      0x357 obj/default/main.o
+ .debug_line    0x000003bd      0x217 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x000005d4      0x2ca ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000089e      0x202 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_line    0x00000aa0      0x2a6 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00000d46      0x217 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x00000f5d      0x4ab ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_line    0x00001408      0x317 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_line    0x0000171f      0x3f7 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x00001b16      0x405 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x00001f1b      0x2dc ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_line    0x000021f7      0x25c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_line    0x00002453      0x299 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x000026ec      0x1b5 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x000028a1      0x254 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x00002af5      0x25a ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x00002d4f       0x83 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x00002dd2       0x83 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x00002e55      0x1aa ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00002fff      0x1b5 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x000031b4      0x2c8 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x0000347c      0x249 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x000036c5      0x2b4 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x00003979       0x6b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x000039e4      0x248 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x00003c2c       0x72 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x00003c9e      0x2ff ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_line    0x00003f9d       0xed ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x0000408a      0x2dc ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_line    0x00004366      0x1ce ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x00004534       0xab ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x000045df      0x26b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000484a      0x27c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x00004ac6      0x297 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x00004d5d      0x203 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_line    0x00004f60      0x23b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_line    0x0000519b      0x230 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_line    0x000053cb      0x1e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_line    0x000055ad      0x2a2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_line    0x0000584f      0x1af c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_line    0x000059fe      0x270 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_line    0x00005c6e      0x316 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_line    0x00005f84      0x36a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x000062ee      0x24f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000653d      0x11a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x00006657      0x206 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x00000000      0x930
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x2c obj/default/main.o
+ .debug_frame   0x0000002c       0x48 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x00000074       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x000000a0       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_frame   0x000000cc       0x64 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00000130       0x80 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x000001b0       0x80 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_frame   0x00000230       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_frame   0x0000025c       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x00000288       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x000002b4       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_frame   0x000002e0       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_frame   0x0000030c       0x48 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x00000354       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x00000380       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x000003ac       0x48 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x000003f4       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x00000420       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x0000044c       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x00000478       0x80 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x000004f8       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x00000524       0x4c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x00000570       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000059c       0x68 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_frame   0x00000604       0x30 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x00000634       0x48 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x0000067c       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x000006a8       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x000006d4       0x2c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x00000700       0x30 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x00000730       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000750       0x28 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000778       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000798       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x000007b8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_frame   0x000007d8       0x34 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000080c       0x4c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000858       0x70 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x000008c8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x000008e8       0x48 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x00000000      0xc35
+ *(.debug_str)
+ .debug_str     0x00000000       0x12 obj/default/main.o
+ .debug_str     0x00000012       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_str     0x00000024       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_str     0x00000036       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_str     0x00000048       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_str     0x0000005a       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_str     0x0000006c       0x1a ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_str     0x00000086       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_str     0x00000098       0x1a ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_str     0x000000b2       0x1a ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_str     0x000000cc       0x23 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_str     0x000000ef       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_str     0x00000101       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_str     0x00000113       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_str     0x00000125       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_str     0x00000137       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_str     0x00000149       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_str     0x0000015b       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_str     0x0000016d       0x18 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_str     0x00000185       0x1a ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_str     0x0000019f       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_str     0x000001b1       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_str     0x000001c3       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_str     0x000001d5       0x1a ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_str     0x000001ef       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_str     0x00000201       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_str     0x00000213       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_str     0x00000225       0x12 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_str     0x00000237      0x187 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                                0x1cd (size before relaxing)
+ .debug_str     0x000003be      0x387 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                                0x51a (size before relaxing)
+ .debug_str     0x00000745       0xdf c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                                0x528 (size before relaxing)
+ .debug_str     0x00000824       0x40 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                                0x171 (size before relaxing)
+ .debug_str     0x00000864       0xe3 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+                                0x178 (size before relaxing)
+ .debug_str     0x00000947       0x6c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+                                0x136 (size before relaxing)
+ .debug_str     0x000009b3       0x52 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+                                0x18b (size before relaxing)
+ .debug_str     0x00000a05       0x54 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                                0x532 (size before relaxing)
+ .debug_str     0x00000a59       0x7e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                                0x55c (size before relaxing)
+ .debug_str     0x00000ad7      0x10b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                0x1b4 (size before relaxing)
+ .debug_str     0x00000be2       0x37 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                0x175 (size before relaxing)
+ .debug_str     0x00000c19       0x1c ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_loc      0x00000000      0xfe7
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x2b obj/default/main.o
+ .debug_loc     0x0000002b       0x56 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_loc     0x00000081       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_loc     0x000000ac       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_usleep.o)
+ .debug_loc     0x000000d7       0x81 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x00000158       0xac ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_loc     0x00000204       0xac ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_loc     0x000002b0       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_loc     0x000002db       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_loc     0x00000306       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_loc     0x00000331       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_loc     0x0000035c       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_loc     0x00000387       0x56 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_loc     0x000003dd       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_loc     0x00000408       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_loc     0x00000433       0x56 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x00000489       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_loc     0x000004b4       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_loc     0x000004df       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_loc     0x0000050a       0xac ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_loc     0x000005b6       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_loc     0x000005e1       0x56 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_loc     0x00000637       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_loc     0x00000662       0x81 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_loc     0x000006e3       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_loc     0x0000070e       0x56 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_loc     0x00000764       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_loc     0x0000078f       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_loc     0x000007ba       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_loc     0x000007e5       0x2b ../crossroad1_soft_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_loc     0x00000810       0x1e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_loc     0x0000082e       0x3d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_loc     0x0000086b      0x114 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000097f       0xca c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000a49       0x3c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_loc     0x00000a85      0x120 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_loc     0x00000ba5      0x1cb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00000d70      0x1d2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x00000f42       0x4f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x00000f91       0x56 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x00000000       0x40
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x00000000       0x10 ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+ .debug_alt_sim_info
+                0x00000010       0x30 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x0000da00                __alt_data_end = 0xda00
+                0x0000da00                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x0000d8c0                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x0000d8c0                PROVIDE (__alt_heap_start, end)
+                0x0000da00                PROVIDE (__alt_heap_limit, 0xda00)
+OUTPUT(crossroad1_soft.elf elf32-littlenios2)
+
+.debug_ranges   0x00000000       0x90
+ .debug_ranges  0x00000000       0x20 ../crossroad1_soft_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x00000020       0x28 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x00000048       0x30 ../crossroad1_soft_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x00000078       0x18 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)

@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=C\:\\altera\\13.0sp1\\crossroad1\\software\\crossroad1_soft
+newSoftwareExampleWizardPage.sopcinfoFile=C\:\\altera\\13.0sp1\\crossroad1\\crossroad1_core.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=C\:\\altera\\13.0sp1\\crossroad1\\software\\crossroad1_soft_bsp
